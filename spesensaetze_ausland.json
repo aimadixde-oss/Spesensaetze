@@ -64,25 +64,19 @@
       "uebernachtung": 88
     },
     {
-      "land": "Australien",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Canberra",
+      "land": "Australien - Canberra",
       "verpflegung_24h": 74,
       "verpflegung_anreisetag": 49,
       "uebernachtung": 186
     },
     {
-      "land": "– Sydney",
+      "land": "Australien - Sydney",
       "verpflegung_24h": 57,
       "verpflegung_anreisetag": 38,
       "uebernachtung": 173
     },
     {
-      "land": "– im Übrigen",
+      "land": "Australien - im Übrigen",
       "verpflegung_24h": 57,
       "verpflegung_anreisetag": 38,
       "uebernachtung": 173
@@ -142,31 +136,25 @@
       "uebernachtung": 105
     },
     {
-      "land": "Brasilien",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Brasilia",
+      "land": "Brasilien - Brasilia",
       "verpflegung_24h": 51,
       "verpflegung_anreisetag": 34,
       "uebernachtung": 88
     },
     {
-      "land": "– Rio de Janeiro",
+      "land": "Brasilien - Rio de Janeiro",
       "verpflegung_24h": 69,
       "verpflegung_anreisetag": 46,
       "uebernachtung": 140
     },
     {
-      "land": "– Sao Paulo",
+      "land": "Brasilien - Sao Paulo",
       "verpflegung_24h": 46,
       "verpflegung_anreisetag": 31,
       "uebernachtung": 151
     },
     {
-      "land": "– im Übrigen",
+      "land": "Brasilien - im Übrigen",
       "verpflegung_24h": 46,
       "verpflegung_anreisetag": 31,
       "uebernachtung": 88
@@ -202,31 +190,25 @@
       "uebernachtung": 154
     },
     {
-      "land": "China",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Hongkong",
+      "land": "China - Hongkong",
       "verpflegung_24h": 83,
       "verpflegung_anreisetag": 56,
       "uebernachtung": 209
     },
     {
-      "land": "– Peking",
+      "land": "China - Peking",
       "verpflegung_24h": 57,
       "verpflegung_anreisetag": 38,
       "uebernachtung": 184
     },
     {
-      "land": "– Shanghai",
+      "land": "China - Shanghai",
       "verpflegung_24h": 48,
       "verpflegung_anreisetag": 32,
       "uebernachtung": 142
     },
     {
-      "land": "– im Übrigen",
+      "land": "China - im Übrigen",
       "verpflegung_24h": 48,
       "verpflegung_anreisetag": 32,
       "uebernachtung": 142
@@ -298,19 +280,13 @@
       "uebernachtung": 171
     },
     {
-      "land": "Frankreich",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Paris sowie die\nDepartments 77, 78, 91 bis 95",
+      "land": "Frankreich - Paris sowie die Departments 77, 78, 91 bis 95",
       "verpflegung_24h": 58,
       "verpflegung_anreisetag": 39,
       "uebernachtung": 159
     },
     {
-      "land": "– im Übrigen",
+      "land": "Frankreich - im Übrigen",
       "verpflegung_24h": 53,
       "verpflegung_anreisetag": 36,
       "uebernachtung": 105
@@ -340,19 +316,13 @@
       "uebernachtung": 203
     },
     {
-      "land": "Griechenland",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Athen",
+      "land": "Griechenland - Athen",
       "verpflegung_24h": 40,
       "verpflegung_anreisetag": 27,
       "uebernachtung": 139
     },
     {
-      "land": "– im Übrigen",
+      "land": "Griechenland - im Übrigen",
       "verpflegung_24h": 36,
       "verpflegung_anreisetag": 24,
       "uebernachtung": 150
@@ -382,43 +352,37 @@
       "uebernachtung": 198
     },
     {
-      "land": "Indien",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Bangalore",
+      "land": "Indien - Bangalore",
       "verpflegung_24h": 42,
       "verpflegung_anreisetag": 28,
       "uebernachtung": 155
     },
     {
-      "land": "– Chennai",
+      "land": "Indien - Chennai",
       "verpflegung_24h": 22,
       "verpflegung_anreisetag": 15,
       "uebernachtung": 80
     },
     {
-      "land": "– Kalkutta",
+      "land": "Indien - Kalkutta",
       "verpflegung_24h": 32,
       "verpflegung_anreisetag": 21,
       "uebernachtung": 167
     },
     {
-      "land": "– Mumbai",
+      "land": "Indien - Mumbai",
       "verpflegung_24h": 53,
       "verpflegung_anreisetag": 36,
       "uebernachtung": 218
     },
     {
-      "land": "– Neu Delhi",
+      "land": "Indien - Neu Delhi",
       "verpflegung_24h": 46,
       "verpflegung_anreisetag": 31,
       "uebernachtung": 211
     },
     {
-      "land": "– im Übrigen",
+      "land": "Indien - im Übrigen",
       "verpflegung_24h": 22,
       "verpflegung_anreisetag": 15,
       "uebernachtung": 80
@@ -454,25 +418,19 @@
       "uebernachtung": 268
     },
     {
-      "land": "Italien",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Mailand",
+      "land": "Italien - Mailand",
       "verpflegung_24h": 42,
       "verpflegung_anreisetag": 28,
       "uebernachtung": 191
     },
     {
-      "land": "– Rom",
+      "land": "Italien - Rom",
       "verpflegung_24h": 48,
       "verpflegung_anreisetag": 32,
       "uebernachtung": 150
     },
     {
-      "land": "– im Übrigen",
+      "land": "Italien - im Übrigen",
       "verpflegung_24h": 42,
       "verpflegung_anreisetag": 28,
       "uebernachtung": 150
@@ -484,25 +442,19 @@
       "uebernachtung": 171
     },
     {
-      "land": "Japan",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Tokio",
+      "land": "Japan - Tokio",
       "verpflegung_24h": 50,
       "verpflegung_anreisetag": 33,
       "uebernachtung": 285
     },
     {
-      "land": "– Osaka",
+      "land": "Japan - Osaka",
       "verpflegung_24h": 33,
       "verpflegung_anreisetag": 22,
       "uebernachtung": 141
     },
     {
-      "land": "– im Übrigen",
+      "land": "Japan - im Übrigen",
       "verpflegung_24h": 33,
       "verpflegung_anreisetag": 22,
       "uebernachtung": 141
@@ -526,31 +478,25 @@
       "uebernachtung": 275
     },
     {
-      "land": "Kanada",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Ottawa",
+      "land": "Kanada - Ottawa",
       "verpflegung_24h": 62,
       "verpflegung_anreisetag": 41,
       "uebernachtung": 214
     },
     {
-      "land": "– Toronto",
+      "land": "Kanada - Toronto",
       "verpflegung_24h": 54,
       "verpflegung_anreisetag": 36,
       "uebernachtung": 392
     },
     {
-      "land": "– Vancouver",
+      "land": "Kanada - Vancouver",
       "verpflegung_24h": 63,
       "verpflegung_anreisetag": 42,
       "uebernachtung": 304
     },
     {
-      "land": "– im Übrigen",
+      "land": "Kanada - im Übrigen",
       "verpflegung_24h": 54,
       "verpflegung_anreisetag": 36,
       "uebernachtung": 214
@@ -892,25 +838,19 @@
       "uebernachtung": 140
     },
     {
-      "land": "Polen",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Breslau",
+      "land": "Polen - Breslau",
       "verpflegung_24h": 34,
       "verpflegung_anreisetag": 23,
       "uebernachtung": 124
     },
     {
-      "land": "– Warschau",
+      "land": "Polen - Warschau",
       "verpflegung_24h": 40,
       "verpflegung_anreisetag": 27,
       "uebernachtung": 143
     },
     {
-      "land": "– im Übrigen",
+      "land": "Polen - im Übrigen",
       "verpflegung_24h": 34,
       "verpflegung_anreisetag": 23,
       "uebernachtung": 124
@@ -934,25 +874,19 @@
       "uebernachtung": 103
     },
     {
-      "land": "Russische Föderation",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Moskau",
+      "land": "Russische Föderation - Moskau",
       "verpflegung_24h": 30,
       "verpflegung_anreisetag": 20,
       "uebernachtung": 235
     },
     {
-      "land": "– St. Petersburg",
+      "land": "Russische Föderation - St. Petersburg",
       "verpflegung_24h": 28,
       "verpflegung_anreisetag": 19,
       "uebernachtung": 133
     },
     {
-      "land": "– im Übrigen",
+      "land": "Russische Föderation - im Übrigen",
       "verpflegung_24h": 28,
       "verpflegung_anreisetag": 19,
       "uebernachtung": 133
@@ -982,25 +916,19 @@
       "uebernachtung": 147
     },
     {
-      "land": "Saudi-Arabien",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Djidda",
+      "land": "Saudi-Arabien - Djidda",
       "verpflegung_24h": 57,
       "verpflegung_anreisetag": 38,
       "uebernachtung": 181
     },
     {
-      "land": "– Riad",
+      "land": "Saudi-Arabien - Riad",
       "verpflegung_24h": 56,
       "verpflegung_anreisetag": 37,
       "uebernachtung": 186
     },
     {
-      "land": "– im Übrigen",
+      "land": "Saudi-Arabien - im Übrigen",
       "verpflegung_24h": 56,
       "verpflegung_anreisetag": 37,
       "uebernachtung": 181
@@ -1012,25 +940,19 @@
       "uebernachtung": 140
     },
     {
-      "land": "Schweiz",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Bern",
+      "land": "Schweiz - Bern",
       "verpflegung_24h": 82,
       "verpflegung_anreisetag": 55,
       "uebernachtung": 195
     },
     {
-      "land": "– Genf",
+      "land": "Schweiz - Genf",
       "verpflegung_24h": 70,
       "verpflegung_anreisetag": 47,
       "uebernachtung": 197
     },
     {
-      "land": "– im Übrigen",
+      "land": "Schweiz - im Übrigen",
       "verpflegung_24h": 70,
       "verpflegung_anreisetag": 47,
       "uebernachtung": 195
@@ -1078,37 +1000,31 @@
       "uebernachtung": 126
     },
     {
-      "land": "Spanien",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Barcelona",
+      "land": "Spanien - Barcelona",
       "verpflegung_24h": 34,
       "verpflegung_anreisetag": 23,
       "uebernachtung": 144
     },
     {
-      "land": "– Kanarische Inseln",
+      "land": "Spanien - Kanarische Inseln",
       "verpflegung_24h": 36,
       "verpflegung_anreisetag": 24,
       "uebernachtung": 103
     },
     {
-      "land": "– Madrid",
+      "land": "Spanien - Madrid",
       "verpflegung_24h": 42,
       "verpflegung_anreisetag": 28,
       "uebernachtung": 131
     },
     {
-      "land": "– Palma de Mallorca",
+      "land": "Spanien - Palma de Mallorca",
       "verpflegung_24h": 44,
       "verpflegung_anreisetag": 29,
       "uebernachtung": 142
     },
     {
-      "land": "– im Übrigen",
+      "land": "Spanien - im Übrigen",
       "verpflegung_24h": 34,
       "verpflegung_anreisetag": 23,
       "uebernachtung": 103
@@ -1120,25 +1036,19 @@
       "uebernachtung": 112
     },
     {
-      "land": "Südafrika",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Kapstadt",
+      "land": "Südafrika - Kapstadt",
       "verpflegung_24h": 33,
       "verpflegung_anreisetag": 22,
       "uebernachtung": 130
     },
     {
-      "land": "– Johannesburg",
+      "land": "Südafrika - Johannesburg",
       "verpflegung_24h": 36,
       "verpflegung_anreisetag": 24,
       "uebernachtung": 129
     },
     {
-      "land": "– im Übrigen",
+      "land": "Südafrika - im Übrigen",
       "verpflegung_24h": 29,
       "verpflegung_anreisetag": 20,
       "uebernachtung": 109
@@ -1204,25 +1114,19 @@
       "uebernachtung": 77
     },
     {
-      "land": "Türkei",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Ankara",
+      "land": "Türkei - Ankara",
       "verpflegung_24h": 32,
       "verpflegung_anreisetag": 21,
       "uebernachtung": 110
     },
     {
-      "land": "– Izmir",
+      "land": "Türkei - Izmir",
       "verpflegung_24h": 44,
       "verpflegung_anreisetag": 29,
       "uebernachtung": 120
     },
     {
-      "land": "– im Übrigen",
+      "land": "Türkei - im Übrigen",
       "verpflegung_24h": 24,
       "verpflegung_anreisetag": 16,
       "uebernachtung": 107
@@ -1288,85 +1192,73 @@
       "uebernachtung": 169
     },
     {
-      "land": "Vereinigte Staaten von Amerika\n(USA)",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– Atlanta",
+      "land": "Vereinigte Staaten von Amerika (USA) - Atlanta",
       "verpflegung_24h": 77,
       "verpflegung_anreisetag": 52,
       "uebernachtung": 182
     },
     {
-      "land": "– Boston",
+      "land": "Vereinigte Staaten von Amerika (USA) - Boston",
       "verpflegung_24h": 63,
       "verpflegung_anreisetag": 42,
       "uebernachtung": 333
     },
     {
-      "land": "– Chicago",
+      "land": "Vereinigte Staaten von Amerika (USA) - Chicago",
       "verpflegung_24h": 65,
       "verpflegung_anreisetag": 44,
       "uebernachtung": 233
     },
     {
-      "land": "– Houston",
+      "land": "Vereinigte Staaten von Amerika (USA) - Houston",
       "verpflegung_24h": 62,
       "verpflegung_anreisetag": 41,
       "uebernachtung": 204
     },
     {
-      "land": "– Los Angeles",
+      "land": "Vereinigte Staaten von Amerika (USA) - Los Angeles",
       "verpflegung_24h": 64,
       "verpflegung_anreisetag": 43,
       "uebernachtung": 262
     },
     {
-      "land": "– Miami",
+      "land": "Vereinigte Staaten von Amerika (USA) - Miami",
       "verpflegung_24h": 65,
       "verpflegung_anreisetag": 44,
       "uebernachtung": 256
     },
     {
-      "land": "– New York City",
+      "land": "Vereinigte Staaten von Amerika (USA) - New York City",
       "verpflegung_24h": 66,
       "verpflegung_anreisetag": 44,
       "uebernachtung": 308
     },
     {
-      "land": "– San Francisco",
+      "land": "Vereinigte Staaten von Amerika (USA) - San Francisco",
       "verpflegung_24h": 59,
       "verpflegung_anreisetag": 40,
       "uebernachtung": 327
     },
     {
-      "land": "– Washington, D. C.",
+      "land": "Vereinigte Staaten von Amerika (USA) - Washington, D. C.",
       "verpflegung_24h": 66,
       "verpflegung_anreisetag": 44,
       "uebernachtung": 203
     },
     {
-      "land": "– im Übrigen",
+      "land": "Vereinigte Staaten von Amerika (USA) - im Übrigen",
       "verpflegung_24h": 59,
       "verpflegung_anreisetag": 40,
       "uebernachtung": 182
     },
     {
-      "land": "Vereinigtes Königreich von\nGroßbritannien und Nordirland",
-      "verpflegung_24h": null,
-      "verpflegung_anreisetag": null,
-      "uebernachtung": null
-    },
-    {
-      "land": "– London",
+      "land": "Vereinigtes Königreich von Großbritannien und Nordirland - London",
       "verpflegung_24h": 66,
       "verpflegung_anreisetag": 44,
       "uebernachtung": 163
     },
     {
-      "land": "– im Übrigen",
+      "land": "Vereinigtes Königreich von Großbritannien und Nordirland - im Übrigen",
       "verpflegung_24h": 52,
       "verpflegung_anreisetag": 35,
       "uebernachtung": 99
